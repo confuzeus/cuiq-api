@@ -1,0 +1,10 @@
+__pycache__
+venv
+.gitignore
+appconfig.example.ini
+pyproject.toml
+setup.cfg
+Makefile
+.git
+LICENSE
+README.md
